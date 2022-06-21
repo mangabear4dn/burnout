@@ -22,3 +22,5 @@ This website would be intended only as one of many ways of self-exploration of s
 The website would offer to log in either as an anonymous user or with social media links.
 
 The website would have an option to make a donation to the site owner but it would be completely voluntary. 
+
+The project is still in the beginning phase at the moment because of my personal burnout at the moment.
