@@ -5,3 +5,7 @@ body {
     font-family: 'Times New Roman', Times, serif;
     color: darkolivegreen;
 }
+ div {
+    margin: 10vw 20vw 10vw;
+ }
+ 
